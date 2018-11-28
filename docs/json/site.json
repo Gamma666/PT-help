@@ -228,6 +228,7 @@
       "temple": "HDCity",
       "search_prefix": "https://hdcity.work/pt?iwannaseethis="
     },
+    
     {
       "name": "HD4FANS",
       "type": "gw",
@@ -258,7 +259,19 @@
       "temple": "HDRoute",
       "search_prefix": "http://hdroute.org/browse.php?s="
     }
-  ],
+    
+    {
+    
+"name":"meihezi",
+    
+"type":"gw",
+    "temple":"meihezi",
+"search_prefix": "https://pt.meihezi.com/torrents.php?incldead="   
+    
+}
+
+  
+],
   "jyw": [
     "BYR",
     "6V",
@@ -303,6 +316,8 @@
     "TLFBits",
     "BTSCHOOL",
     "HDRoute"
+    
+"meihezi"
   ],
   "wz": [],
   "bt": [],
