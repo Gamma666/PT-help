@@ -253,6 +253,12 @@
       "search_prefix": "http://pt.btschool.net/torrents.php?search="
     },
     {
+      "name": "PT99",
+      "type": "gw",
+      "temple": "NexusPHP",
+      "search_prefix": "https://pt.j99.info/torrents.php?search="
+    },
+    {
       "name": "HDRoute",
       "type": "gw",
       "temple": "HDRoute",
@@ -301,6 +307,7 @@
     "CCFBits",
     "HD4FANS",
     "TLFBits",
+    "PT99",
     "BTSCHOOL",
     "HDRoute"
   ],
