@@ -7,7 +7,7 @@
 // @run-at       document-end
 // @include      http://localhost*
 // @include      http*://*/ptsearch*
-// @updateURL    https://github.com/Rhilip/PT-help/raw/master/docs/js/ptsearch.user.js
+// @updateURL    https://github.com/Gamma666/PT-help/edit/master/docs/js/ptsearch.user.js
 // @supportURL   https://github.com/Rhilip/PT-help/issues/2
 // @connect      *
 // @grant        GM_xmlhttpRequest
