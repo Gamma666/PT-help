@@ -533,6 +533,7 @@ $(document).ready(function () {
 
         HDCity("HDCity", "https://hdcity.work/pt?iwannaseethis=$key$");
         HDStreet("HDStreet", "http://hdstreet.club/torrents.php?search=$key$");
+        meihezi("meihezi", "http://pt.meihezi.com/torrents.php?search=$key$");
         HDRoute("HDRoute", "http://hdroute.org/browse.php?s=$key$&dp=0&add=0&action=s&or=1&imdb=");
         CCFBits("CCFBits", "http://ccfbits.org/browse.php?search=$key$");
 
