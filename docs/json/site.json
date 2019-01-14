@@ -275,6 +275,18 @@
       "temple": "NexusPHP",
       "search_prefix": "http://www.pthome.net/browse.php?s="
     },
+     {
+      "name": "PTer",
+      "type": "gw",
+      "temple": "NexusPHP",
+      "search_prefix": "http://pter.club/browse.php?s="
+    },
+     {
+      "name": "Afan",
+      "type": "gw",
+      "temple": "NexusPHP",
+      "search_prefix": "http://afan.pt/browse.php?s="
+    },
     {
       "name": "HDRoute",
       "type": "gw",
@@ -330,6 +342,8 @@
     "meihezi",
     "BTSCHOOL",
     "HDRoute"
+   "Afan"
+    "PTer"
   ],
   "wz": [],
   "bt": [],
