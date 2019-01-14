@@ -521,9 +521,12 @@ $(document).ready(function () {
         NexusPHP("HD4FANS", "https://pt.hd4fans.org/torrents.php?search=$key$");
         NexusPHP("TLFBits", "http://pt.eastgame.org/torrents.php?search=$key$");
         NexusPHP("BTSCHOOL", "http://pt.btschool.net/torrents.php?search=$key$");
+        
         NexusPHP("PT99", "https://pt.j99.info/torrents.php?search=$key$");
         NexusPHP("PTHome", "https://www.pthome.net/torrents.php?search=$key$");
         NexusPHP("HDArea", "https://www.hdarea.co/torrents.php?search=$key$");
+        NexusPHP("PTer", "https://pter.club/torrents.php?search=$key$");
+        NexusPHP("Afan", "https://afan.pt/torrents.php?search=$key$");
         
 
         // 公网不能使用通用NexusPHP解析的站点
@@ -547,6 +550,13 @@ $(document).ready(function () {
         // TODO Nyaa(sukebei)
 
         // 自定义站点请添加到此处
+        
+        NexusPHP("PT99", "https://pt.j99.info/torrents.php?search=$key$");
+        NexusPHP("PTHome", "https://www.pthome.net/torrents.php?search=$key$");
+        NexusPHP("HDArea", "https://www.hdarea.co/torrents.php?search=$key$");
+        NexusPHP("PTer", "https://pter.club/torrents.php?search=$key$");
+        NexusPHP("Afan", "https://afan.pt/torrents.php?search=$key$");
+        
 
 
     });
