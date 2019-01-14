@@ -532,7 +532,7 @@ $(document).ready(function () {
         TTG("TTG(Gamez)", "https://totheglory.im/browse.php?c=G&search_field=$key$");
 
         HDCity("HDCity", "https://hdcity.work/pt?iwannaseethis=$key$");
-        HDStreet("HDStreet", "http://hdstreet.club/torrents.php?search=$key$");
+        HDStreet("HDStreet", "http://filmlife.club/torrents.php?search=$key$");
         meihezi("meihezi", "http://pt.meihezi.com/torrents.php?search=$key$");
         HDRoute("HDRoute", "http://hdroute.org/browse.php?s=$key$&dp=0&add=0&action=s&or=1&imdb=");
         CCFBits("CCFBits", "http://ccfbits.org/browse.php?search=$key$");
