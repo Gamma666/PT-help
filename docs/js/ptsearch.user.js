@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pt-search
 // @namespace    http://blog.rhilip.info
-// @version      20180505
+// @version      2019.1.14
 // @description  Pt-search 配套脚本
 // @author       Rhilip
 // @run-at       document-end
