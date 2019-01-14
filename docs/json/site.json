@@ -258,6 +258,23 @@
       "temple": "NexusPHP",
       "search_prefix": "https://pt.j99.info/torrents.php?search="
     },
+     {
+      "name": "meihezi",
+      "type": "gw",
+      "temple": "HDStreet",
+      "search_prefix": "http://pt.meihezi.com/torrents.php?search="
+    },{
+      "name": "HDArea",
+      "type": "gw",
+      "temple": "NexusPHP",
+      "search_prefix": "www.hdarea.co/torrents.php?search="
+    },
+    {
+      "name": "PTHome",
+      "type": "gw",
+      "temple": "NexusPHP",
+      "search_prefix": "http://www.pthome.net/browse.php?s="
+    },
     {
       "name": "HDRoute",
       "type": "gw",
@@ -308,6 +325,9 @@
     "HD4FANS",
     "TLFBits",
     "PT99",
+    "PTHome",
+    "HDArea",
+    "meihezi",
     "BTSCHOOL",
     "HDRoute"
   ],
