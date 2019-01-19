@@ -262,12 +262,12 @@
       "name": "meihezi",
       "type": "gw",
       "temple": "HDStreet",
-      "search_prefix": "http://pt.meihezi.com/torrents.php?search="
+      "search_prefix": "https://meihezi.net/torrents.php?search="
     },{
       "name": "HDArea",
       "type": "gw",
       "temple": "NexusPHP",
-      "search_prefix": "www.hdarea.co/torrents.php?search="
+      "search_prefix": "https://www.hdarea.co/torrents.php?search="
     },
     {
       "name": "PTHome",
